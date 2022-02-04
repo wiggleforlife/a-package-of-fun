@@ -1,3 +1,5 @@
+<img src="box.png" alt="game logo" width="96px">
+
 # A Package of Fun
 ### [Mine and Clayton Collin's entry](https://wiggleforlife.itch.io/a-package-of-fun) for the [2020 Quarantine Jam](https://itch.io/jam/ndab-jam)
 Theme - "pack"  
