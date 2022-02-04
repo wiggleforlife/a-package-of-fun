@@ -10,8 +10,11 @@ The menu is 3D, but the actual game is all 2D. It features
 
 I think this was a great exercise, as it was my first *complete* Unity project, as well as my first game jam. I gained a lot of experience with the Unity engine in a short amount of time. However, it's bad to the point where it's made for an Ultrawide monitor and nothing else... leaving it basically unplayable unless you know the levels - unless you skip them all using my crappy collider system.
 
-# Credits:
+## Credits:
 * Me - programmer, artist, minigame designer
 * Clayton Collins - musician, level designer, minigame designer
+* DaFont - 100% Free font
+* Some SFX program that I think Brackeys used and I know Dani used before he blew up and went sterotypical YouTuber - I'll have to look into this more
+* Members of the Quarantine Jam Discord server for help with the modelling workflow and programming help
 
 This will most likely never be updated and I'll probably archive it. I just wanted to upload this to GitHub so I could access the code remotely... if I wanted to do that for some reason. This is full of buggy code and bad practises.
